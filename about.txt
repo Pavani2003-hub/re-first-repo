@@ -1,0 +1,6 @@
+<html>
+<head>
+<body>
+<h1> I am Batte Sandeep</h1>
+<h2> Studing BCA </h2>
+<h3>I have learnt how to create a GitHub account</h3>
